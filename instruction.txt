@@ -1,0 +1,1 @@
+Bila autorun tidak berjalan maka run secara manual, jalankan file dailyresetlauncher.bat dan telbotlauncher.bat

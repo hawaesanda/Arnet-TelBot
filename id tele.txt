@@ -1,0 +1,13 @@
+bot = Client(
+    "Arnetinternbot",
+    api_id=25927314,
+    api_hash="c1f967f497bff124d1efb9be2887d805",
+    bot_token="8439339382:AAE4YyfgsylrfvM9xB5Urh0s51FQOFL7c48",
+)
+
+ADMIN_DIR = r"E:\Downloads\Arnet-TelBot - Copy\Arnet-TelBot\admin_storage"
+BASE_TEMP_DIR = r"E:\Downloads\Arnet-TelBot - Copy\Arnet-TelBot\temp"
+TEMPLATE_PATH = r"E:\Downloads\Arnet-TelBot - Copy\Arnet-TelBot\template\review_template.jpg"
+SPLIT_TEMPLATE_PATH = r"E:\Downloads\Arnet-TelBot - Copy\Arnet-TelBot\template\split_review_template.jpg"
+BASE_TEMPLATES = r"E:\Downloads\Arnet-TelBot - Copy\Arnet-TelBot\template"
+ADMIN_DAILY_DIR = r"E:\Downloads\Arnet-TelBot - Copy\Arnet-TelBot\admin_storage\daily-reports"
